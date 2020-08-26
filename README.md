@@ -19,7 +19,7 @@
 
 ## Instalação
 
-<p>Tem certeza de ter a última versão do ![python](https://www.python.org/). Assim, para instalar no windowns siga a seguinte sequencia de comandos:</p>
+<p>Tem certeza de ter a última versão do [python](https://www.python.org/). Assim, para instalar no windowns siga a seguinte sequencia de comandos:</p>
 
 ~~~bash
 # Instala o pacote para crar o ambiente virtual
