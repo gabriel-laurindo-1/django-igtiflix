@@ -1,0 +1,26 @@
+.titulo {
+    text-align: center;
+    font-size: 40px;
+    padding: 50px;
+    font-family: Roboto;
+}
+
+.footer {
+    font-weight: bold;
+    font-size: 1em;
+    display: inline-block;
+    text-align: center;
+}
+
+.alert {
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.alert p {
+    background-color: rgba(250, 217, 5, 0.3);
+    color: rgb(201, 116, 20);
+    border-radius: 10%;
+    padding: 30px;
+    margin-bottom: 15px;
+}
